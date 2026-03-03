@@ -20,7 +20,11 @@ extract only OOP and/or Swing files and use them without the need for maven conf
 
 ---
 
-Three project assignments were part of the course and will be hosted as a separate repositories.
+Three project assignments were part of the course and are hosted as a separate repositories:
+
+- [Marine Port](https://github.com/itischrisd/MarinePort)
+- [Chicken Shoot](https://github.com/itischrisd/ChickenShoot)
+- [Egg Game](https://github.com/itischrisd/EggGame)
 
 ---
 
